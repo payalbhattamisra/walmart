@@ -47,12 +47,12 @@ import {
                   </Box>
                   <Box height={200}>
                     <Image
-                      src="https://i5.walmartimages.com/seo/George-Men-s-Boxer-Brief-Lined-Swim-Shorts-with-UPF-50-7-inseam-Sizes-S-3XL_f59e8919-7d38-4876-9d9f-c26228e37ea5.320a35f5546db5f234567c6ea358291e.jpeg?odnHeight=117&odnWidth=117&odnBg=FFFFFF"
+                      src="https://i5.walmartimages.com/asr/11beb08b-1a88-4e41-8fbc-62f6e1da3c3f.845006767ae4cecc602ee126d2fcc359.jpeg?odnWidth=1000&odnHeight=1000&odnBg=ffffff"
                       h="100%"
                     />
                     <Text fontSize={20} className="roboto-bold">$12.98</Text>
-                    <Text>George Men's Boxer Brief <br />
-                    Lined Swim Shorts woth UPF...
+                    <Text>kennedy chair<br />
+                    Rocking Classic Wood...
                     </Text>
                     <Button border={"1px solid black"} borderRadius={20} bg="white">
                 Options
@@ -68,12 +68,12 @@ import {
                   </Box>
                   <Box height={200}>
                     <Image
-                      src="https://i5.walmartimages.com/seo/No-Boundaries-Juniors-Daisy-Print-O-Ring-Bikini-Bottoms-Sizes-S-XXL_1fbe1c40-d185-4a95-95f0-6895aa4abc5d.b5d9535c4b308d2847174024a5f8982a.jpeg?odnHeight=117&odnWidth=117&odnBg=FFFFFF"
+                      src="https://i5.walmartimages.com/asr/384d01ad-5ae6-4e67-b88c-719df96591ef.aa84a88a893bcec84d7a555802f4c20e.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF"
                       h="100%"
                     />
                      <Text fontSize={20} className="roboto-bold">$9.98</Text>
-                    <Text>No Boundaries junior's Daisy <br />
-                    Print O-Ring Bikni Bottoms,...
+                    <Text>Ladderback chair<br />
+                    Wooden Rungs Traditional Seat.
                     </Text>
                     <Button border={"1px solid black"} borderRadius={20} bg="white">
                 Options
@@ -89,12 +89,12 @@ import {
                   </Box>
                   <Box height={200}>
                     <Image
-                      src="https://i5.walmartimages.com/seo/No-Boundaries-Juniors-Yellow-Gingham-Halter-Bandeau-Bikini-Top-Size-XS-XL_528a76e6-8c3c-4d2d-9ba7-193518ef3681.5efe29019978b96921b92c414ebe4e9f.jpeg?odnHeight=117&odnWidth=117&odnBg=FFFFFF"
+                      src="https://sreditingzone.com/wp-content/uploads/2018/04/Chair-Png-5-768x995.png"
                       h="100%"
                     />
                      <Text fontSize={20} className="roboto-bold">$14.98</Text>
-                    <Text> No Boundaries junior's Yellow<br />
-                    Gingham Halteter Bandeau
+                    <Text> Traditional Wingback Chair<br />
+                    elegance and classic design
                     </Text>
                     <Button border={"1px solid black"} borderRadius={20} bg="white">
                 Options
